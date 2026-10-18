@@ -7,11 +7,11 @@ void main() {
   print("Rata-rata : $rataRata");
 
   if (rataRata >= 90) {
-    print("Grade A");
+    print("Grade : A");
   } else if (rataRata >= 80) {
-    print("Grade B");
+    print("Grade : B");
   } else if (rataRata >= 70) {
-    print("Grade C");
+    print("Grade : C");
   } else {
     print("Grade D");
   }

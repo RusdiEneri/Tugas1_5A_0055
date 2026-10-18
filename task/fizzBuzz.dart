@@ -7,8 +7,6 @@ void main() {
       print("Nilai $i adalah Fizz");
     } else if (i % 5 == 0) {
       print("Nilai $i adalah Buzz");
-    } else {
-      print("Nilai $i bukan Fizz ataupun Buzz");
     }
   }
 }
